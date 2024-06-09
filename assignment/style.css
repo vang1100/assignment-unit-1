@@ -1,4 +1,7 @@
 /* Add a background color to the header element */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 header{
     background-color: powderblue;
     color: white;
